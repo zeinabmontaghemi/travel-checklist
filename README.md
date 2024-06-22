@@ -1,6 +1,15 @@
-# About this project
-You can put your travel's items and their number in the list and change order of displaing of items in the list. you will see precent of already packed items at the bottom.\
-In this we use useState and state management.
+# Overview
+travel checklist is a website for gathering your travel's items built with a React frontend.
+## Tecnologies Used
+
+- HTTP
+- CSS
+- React(useState and state management)
+## Key Features
+
+- write item's name and its number
+- selective display order
+- show precent of packed items
 ## Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
