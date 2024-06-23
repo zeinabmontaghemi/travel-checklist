@@ -1,13 +1,7 @@
 # Overview
-travel checklist is a website for gathering your travel's items built with a React frontend.
-## Tecnologies Used
-
-- HTTP
-- CSS
-- React(useState and state management)
+travel checklist is a website for gathering your travel's items built in React(useState and state management).
 ## Key Features
-
-- write item's name and its number
+- write item's name and select its count.
 - selective display order
 - show precent of packed items
 ## Create React App
